@@ -6,3 +6,4 @@ Commands learned till now:
 -git status
 -git log
 -git add
+-git diff
