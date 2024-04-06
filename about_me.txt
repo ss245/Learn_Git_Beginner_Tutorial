@@ -9,6 +9,7 @@ Commands learned till now:
 -git diff
 -git branch
 -git checkout
--git init
+-git rebase
+-git merge
 
 I am writing this line to branch main.
