@@ -15,3 +15,6 @@ Commands learned till now:
 I am writing this line to branch main.
 
 I'm making this change as a different developer working directly on code written at github.
+
+I added new email address ton github account :
+Email: shindeshivkumsr33@gmail.com 
